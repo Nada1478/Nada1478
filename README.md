@@ -1,6 +1,6 @@
-<h1 align="center">Hello! 👋 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> --> My Name is Mayar, Welcome To My Github Profile ♥
+<h1 align="center">Hello! 👋 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> --> My Name is Nada, Welcome To My Github Profile 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=+{وَ+قُلْ+رَبِّ+زِدْنِي+عِلْماً}+قال+تعالى" style="color:black" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=+Learning new technologies style="color:black" />
 </p>
 </h1>
 
