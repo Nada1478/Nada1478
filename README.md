@@ -1,6 +1,6 @@
 <h1 align="center">Hello! 👋 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> --> My Name is Nada, Welcome To My Github Profile 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=(Cloud Engineer)+(Learning new technologies) style="color:black" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=(Cloud Engineer) style="color:black" />
 </p>
 </h1>
 
