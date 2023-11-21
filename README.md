@@ -1,16 +1,13 @@
-### Hi there 👋
+![Nada Ahmed Cover](https://pbs.twimg.com/profile_banners/141316682/1612098019/1500x500)
 
-<!--
-**Nada1478/Nada1478** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am Junior Cloud Engineer .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+> 📫 Reach me at [www.linkedin.com/in/nadaahmedsaad
+
+) 
+
+
+### [Hire me 🚀]
